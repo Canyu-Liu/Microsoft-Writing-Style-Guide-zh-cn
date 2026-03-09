@@ -11,7 +11,7 @@
 
 [无偏见沟通](./bias-free-communication)
 
-[全球传播](./global-communications)
+[全球传播](./global-communications/)
 
 ## 翻译说明
 
