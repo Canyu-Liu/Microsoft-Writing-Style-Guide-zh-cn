@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/Microsoft-Writing-Style-Guide-zh-cn/',
   lang: 'zh-CN',
   title: "Microsoft 写作风格指南",
   description: "Microsoft 写作风格指南中文版",
